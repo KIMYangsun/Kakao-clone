@@ -6,6 +6,8 @@ this project is yang sun's first project
 
 ## 기억할것
 
+모든것이 끝났을때 (>)또는 (;)를 쳐준다.
+
 ```
 태그란 <이름 속성="값">내용</이름>
 태크란 (<a href="op.gg"><a>),(<p></p>),(<title><title>)←처럼 브라우저가 알수있는 태그들이 정해져있다.
@@ -18,6 +20,9 @@ this project is yang sun's first project
 Meta의 뜻은 엑스트라,추가정보와 같은뜻이야
 Semantic 태그는 내가 말하고자 하는것에 박스를 가두는것이고
 Non-Semantic 태그는 내가말하고자 하는 줄에 박스를 가두는것이다 (확실하지않음)
+패팅(padding)은 박스의 보더에서 안쪽으로 있는 간격을 뜻해.
+마진(margin)은 박스의 보더에서 바깥쪽으로 있는 간격을 뜻해.
+
 ```
 
 ## 잘 이해 안되는 것
